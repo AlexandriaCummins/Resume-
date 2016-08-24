@@ -17,7 +17,7 @@ Experience
 ---------
 **Earthbound Trading Company:**
 
-  Store Manager 
+  Store Manager; 
   2012-present 
 
 Executes all aspects of the job with honesty, positivity, commitment, and confidence in order to create an inspiring work environment through communication and fair delegation. 
@@ -41,7 +41,10 @@ Check out Earthbound Trading Company:
 <http://www.earthboundtrading.com>
 
 **Juicy Couture**
-  Sales Associate  2012-2013
+  
+  Sales Associate; 
+  2012-2013
+  
 * Customer service and sales 
 * Visual merchandising 
 * Being an asset to management and co-workers 
