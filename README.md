@@ -5,17 +5,23 @@ Alexandria M. Cummins
 ============
 
 -------------------     ----------------------------
-7804 8th Ave NW          cumminsalexandria@gmail.com
+7804 8th Ave NW          
 Seattle   WA                 
-98117                    386-237-1603
+98117                    
+386-237-1603
+
+cumminsalexandria@gmail.com
 -------------------     ----------------------------
 
 Experience 
 ---------
 **Earthbound Trading Company:**
-  Store Manager 2012-present 
+
+  Store Manager 
+  2012-present 
+
 Executes all aspects of the job with honesty, positivity, commitment, and confidence in order to create an inspiring work environment through communication and fair delegation. 
-Maintain all parts of the job to create a cohesive whole:
+Maintains all parts of the job to create a cohesive whole:
 * Sales focus; leading by example to consistently make and exceed goals 
 * Motivate and mentor staff in reaching sales goals 
 * Manage staff schedule, supply order and inventory 
@@ -24,7 +30,14 @@ Maintain all parts of the job to create a cohesive whole:
 * Partner with district 
 * Create lasting relationships with customers 
 
-* Check out Earthbound Trading Company by clicking this link:
+Accomplishments: 
+* Successfully headed two store grand openings in Seattle area
+* Reached record breaking sales figures 
+* Displayed a positive, helpful attitude on a daily basis that was consistently praised by customers and employers alike
+* Demonstrated flexibility and problem solving on IT maitenence, staff issues, scheduling and all aspects. 
+
+
+Check out Earthbound Trading Company:
 <http://www.earthboundtrading.com>
 
 **Juicy Couture**
@@ -61,9 +74,11 @@ Skills
   
 Introduction into Coding: 
 --------------------------------------
+Familiar with these programming basics and tools:
   * Code academy 
   * html.house
   * HTML/CSS 
+  * Java
   
 
 
