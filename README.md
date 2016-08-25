@@ -21,9 +21,8 @@ A lifestyle shop for the nomadic spirit who embraces individuality and craves ex
   Store Manager; 
   2012-present 
 
-Execute all aspects of the job with honesty, positivity, commitment, and confidence in order to create an inspiring work environment through communication and fair delegation.
-Maintain all parts of the job to create a cohesive whole:
-* Sales focus; lead by example to consistently make and exceed goals.
+* Execute all aspects of the job with honesty, positivity, commitment, and confidence in order to create an inspiring work environment through communication and fair delegation.
+* Lead by example to consistently make and exceed goals.
 * Direct and supervise employees in sales engagement, inventory-taking, cash receipt reconciliation, and in performing services for customers.
 * Direct staff schedule, supply order, and inventory.
 * Plan budgets and authorize payments and merchandise returns.
@@ -41,6 +40,7 @@ Accomplishments:
 
 Check out Earthbound Trading Company:
 <http://www.earthboundtrading.com>
+
 
 **Juicy Couture**
 
