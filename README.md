@@ -37,10 +37,8 @@ Accomplishments:
 * Hired and trained 30 staff for three stores.
 * Helped the store break record sales, including $200,000 in sales in one month, which is $130,000 over store average.
 
-
 Check out Earthbound Trading Company:
 <http://www.earthboundtrading.com>
-
 
 **Juicy Couture**
 
@@ -57,40 +55,38 @@ A glamorous, irreverent, and fun lifestyle brand for the decidedly fashionable, 
 
 Volunteer Experience
 ---------------------
+**St. Augustine Humane Society**
+A local group committed to providing resources that strengthen lifelong human-animal bonds in the community.
+
+Volunteer; 2012
+
+* Assisted adopters and interested individuals fill out forms during adoption fairs.
+
+**Habitat for Humanity International**
+An international, non-profit organization devoted to building simple, decent, and affordable housing to address poverty worldwide.
+
+Volunteer; 2004-2007
+
+* Assisted in the construction of 15 houses.
+* Volunteered and coordinated a haunted trail throughout the entire month of October, two years in a row.
 
 Education
 ---------
 
-2008-2010
-:   **Associate of Arts**; Daytona State College 
+**Daytona State College** Associate of Arts; 2008-2010
 
-2003-2007
-:   **High School Diploma**; Flagler Palm Coast High School 
-
-
-Volunteer Programs:
---------------------
-
-    * Habitat for Humanity 
-    * Humane Society 
+**Flagler Palm Coast High School** High School Diploma; 2003-2007
 
 Skills 
 ----------------------------------------
 
-  * Familiar with - Retail Pro POS systems - Microsoft office 
-  * Detail oriented - The ability to notice small differences and similiarites within a project or idea 
-  * Critical Thinking — Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems.
-  * Time Management — Managing one's own time and the time of others.
-  * Monitoring — Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action.
-  * Active Listening — Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times
+  * Familiar with retail relevant software such as Retail Pro POS systems and Microsoft office 
+  * Detail oriented at work and while coding. 
+  * Critical thinker as I identify the strengths and weaknesses of alternative solutions, conclusions and approaches to work problems.
+  * Time manager when planning own time and the time of my staff.
+  * Team player when helping others attain their goals while I provide support and assistance.
+  * Active listener who gives full attention to what other people are saying, taking time to understand points counter to my own.
   
 Introduction into Coding: 
 --------------------------------------
-Familiar with these programming basics and tools:
-  * Code academy 
-  * html.house
-  * HTML/CSS 
-  * Java
-  
-
-
+I am taking lessons through Codecademy to improve my skills every day.
