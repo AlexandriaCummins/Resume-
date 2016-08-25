@@ -1,5 +1,5 @@
-# Resume-
-A brief look into my accomplishments 
+# Resume
+A look into my recent accomplishments
 
 Alexandria M. Cummins 
 ============
@@ -12,9 +12,10 @@ Seattle WA 98117
 cumminsalexandria@gmail.com
 -------------------     ----------------------------
 
-Experience 
+Work Experience 
 ---------
-**Earthbound Trading Company:**
+**Earthbound Trading Company**
+
 A lifestyle shop for the nomadic spirit who embraces individuality and craves exploration, with over 125 stores nationwide and a growing online presence. 
 
   Store Manager; 
@@ -42,16 +43,20 @@ Check out Earthbound Trading Company:
 <http://www.earthboundtrading.com>
 
 **Juicy Couture**
+
 A glamorous, irreverent, and fun lifestyle brand for the decidedly fashionable, bringing LA style and attitude to girls all over the world.
   
   Sales Associate; 
   2012-2013
-  
-* Customer service and sales 
-* Visual merchandising 
-* Being an asset to management and co-workers 
-* Stocked and counted inventory  
 
+* Greeted customers and helped recommend, select, and locate merchandise based on customer needs and desires.
+* Answered questions regarding the store and its merchandise.
+* Assisted with visual displays to maximize customer sales.
+* Stocked and counted inventory.  
+
+
+Volunteer Experience
+---------------------
 
 Education
 ---------
