@@ -16,7 +16,7 @@ Work Experience
 ---------
 **Earthbound Trading Company**
 
-A lifestyle shop for the nomadic spirit who embraces individuality and craves exploration, with over 125 stores nationwide and a growing online presence. 
+A lifestyle shop for the nomadic spirit who embraces individuality and craves exploration, with 125 stores nationwide and a growing online presence. 
 
   Store Manager; 
   2012-present 
