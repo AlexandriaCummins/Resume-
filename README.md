@@ -56,6 +56,7 @@ A glamorous, irreverent, and fun lifestyle brand for the decidedly fashionable, 
 Volunteer Experience
 ---------------------
 **St. Augustine Humane Society**
+
 A local group committed to providing resources that strengthen lifelong human-animal bonds in the community.
 
 Volunteer; 2012
@@ -63,6 +64,7 @@ Volunteer; 2012
 * Assisted adopters and interested individuals fill out forms during adoption fairs.
 
 **Habitat for Humanity International**
+
 An international, non-profit organization devoted to building simple, decent, and affordable housing to address poverty worldwide.
 
 Volunteer; 2004-2007
@@ -87,6 +89,6 @@ Skills
   * Team player when helping others attain their goals while I provide support and assistance.
   * Active listener who gives full attention to what other people are saying, taking time to understand points counter to my own.
   
-Introduction into Coding: 
+Introduction into Coding
 --------------------------------------
 I am taking lessons through Codecademy to improve my skills every day.
