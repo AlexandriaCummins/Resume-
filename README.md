@@ -1,5 +1,4 @@
 #Alexandria M. Cummins 
-
 -------------------     ----------------------------
 7804 8th Ave NW          
 Seattle WA 98117                    
