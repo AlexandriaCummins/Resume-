@@ -1,9 +1,4 @@
-# Resume
-A look into my recent accomplishments
-
-Alexandria M. Cummins 
-============
-
+#Alexandria M. Cummins 
 -------------------     ----------------------------
 7804 8th Ave NW          
 Seattle WA 98117                    
@@ -61,16 +56,16 @@ A local group committed to providing resources that strengthen lifelong human-an
 
 Volunteer; 2012
 
-* Assisted adopters and interested individuals fill out forms during adoption fairs.
+* Assisted individuals in paperwork completion during adoption fairs.
 
 **Habitat for Humanity International**
 
-An international, non-profit organization devoted to building simple, decent, and affordable housing to address poverty worldwide.
+An international non-profit organization devoted to building simple, decent, and affordable housing to address poverty worldwide.
 
 Volunteer; 2004-2007
 
-* Assisted in the construction of 15 houses.
-* Volunteered and coordinated a haunted trail throughout the entire month of October, two years in a row.
+* Assisted in the construction of 15 homes.
+* Volunteered and coordinated a haunted trail throughout the entire month of October for two years in a row.
 
 Education
 ---------
@@ -82,7 +77,7 @@ Education
 Skills 
 ----------------------------------------
 
-  * Familiar with retail relevant software such as Retail Pro POS systems and Microsoft office 
+  * Familiar with retail relevant software such as Retail Pro POS systems and Microsoft Office. 
   * Detail oriented at work and while coding. 
   * Critical thinker as I identify the strengths and weaknesses of alternative solutions, conclusions and approaches to work problems.
   * Time manager when planning own time and the time of my staff.
