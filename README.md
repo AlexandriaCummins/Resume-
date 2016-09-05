@@ -1,7 +1,4 @@
-# Resume
-A look into my recent accomplishments
-
-Alexandria M. Cummins 
+#Alexandria M. Cummins 
 ============
 
 -------------------     ----------------------------
